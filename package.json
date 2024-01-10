@@ -1,0 +1,23 @@
+{
+  "name": "recipebookpostgres",
+  "version": "1.0.0",
+  "description": "Recipe manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alona Rozner",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "bootstrap": "^5.3.2",
+    "consolidate": "*",
+    "dotenv": "^16.3.1",
+    "dust": "*",
+    "dustjs-helpers": "^1.7.4",
+    "dustjs-linkedin": "*",
+    "express": "*",
+    "nodemon": "^3.0.2",
+    "pg": "*"
+  }
+}
